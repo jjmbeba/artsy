@@ -17,7 +17,7 @@ const clashRegular = localFont({
 });
 
 const clashExtraLight = localFont({
-  src: "../../fonts/clash/ClashDisplay-ExtraLight.ttf",
+  src: "../../fonts/clash/ClashDisplay-Extralight.ttf",
 });
 
 const TopCreators = (props: Props) => {
